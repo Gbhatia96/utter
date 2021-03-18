@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/utter/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/utter/static/js/main.bf550bef.chunk.js",
+    "main.js.map": "/utter/static/js/main.bf550bef.chunk.js.map",
+    "runtime-main.js": "/utter/static/js/runtime-main.75fb9b6f.js",
+    "runtime-main.js.map": "/utter/static/js/runtime-main.75fb9b6f.js.map",
+    "static/css/2.30727cf8.chunk.css": "/utter/static/css/2.30727cf8.chunk.css",
+    "static/js/2.86f29719.chunk.js": "/utter/static/js/2.86f29719.chunk.js",
+    "static/js/2.86f29719.chunk.js.map": "/utter/static/js/2.86f29719.chunk.js.map",
+    "static/js/3.7dd210a6.chunk.js": "/utter/static/js/3.7dd210a6.chunk.js",
+    "static/js/3.7dd210a6.chunk.js.map": "/utter/static/js/3.7dd210a6.chunk.js.map",
+    "index.html": "/utter/index.html",
+    "static/css/2.30727cf8.chunk.css.map": "/utter/static/css/2.30727cf8.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/utter/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.86f29719.chunk.js.LICENSE.txt": "/utter/static/js/2.86f29719.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/utter/static/media/arrow_right.0897f985.svg",
+    "static/media/all.min.css": "/utter/static/media/fa-solid-900.46fdbd2d.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75fb9b6f.js",
+    "static/css/2.30727cf8.chunk.css",
+    "static/js/2.86f29719.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.bf550bef.chunk.js"
+  ]
+}
